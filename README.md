@@ -2,14 +2,17 @@
 
 ###
 
-<h4 align="center">As a 4th-year Software Engineering student, I thrive on solving problems, automating workflows, and optimizing systems—it's not just what I do, it's what I enjoy! ⚙️</h4>
+<h3 align="center">As a 4th-year Software Engineering student, I thrive on solving problems, automating workflows, and optimizing systems—it's not just what I do, it's what I enjoy! ⚙️</h3>
 
 ###
 
-<h4 align="center">I’m currently working on AWS, GO, Kubernetes, Devops & Infrastructure</h4>
+<h3 align="center">I’m currently working on AWS, GO, Kubernetes, Devops & Infrastructure</h3>
 
 ###
 
+<h3 align="center">Tools I use </h3>
+
+###
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="80" alt="amazonwebservices logo"  />
   <img width="12" />
