@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="center">Tools I use </h3>
+<h3 align="center">Technologies that I know </h3>
 
 ###
 <div align="center">
