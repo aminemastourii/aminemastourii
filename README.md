@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">I’m currently working on AWS, Kubernetes, Devops & Infrastructure</h3><hl>
+<h3 align="center">I’m currently working on AWS, Kubernetes, Devops & Infrastructure</h3><br>
 
 ###
 
