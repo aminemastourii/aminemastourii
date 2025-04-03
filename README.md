@@ -38,6 +38,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="80" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="80" alt="javascript logo"  />
+  <img width="12" />
    <img src="https://skillicons.dev/icons?i=nest" height="80" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="80" alt="csharp logo"  />
