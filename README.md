@@ -42,6 +42,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="80" alt="csharp logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="80" alt="php logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="80" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongo" height="80" alt="mongodb logo"  />
