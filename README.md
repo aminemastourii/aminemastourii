@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">I’m currently working on AWS, GO, Kubernetes, Devops & Infrastructure</h3>
+<h3 align="center">I’m currently working on AWS, Kubernetes, Devops & Infrastructure</h3>
 
 ###
 
@@ -40,11 +40,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="80" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="80" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="80" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="80" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=mongo" height="80" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="80" alt="python logo"  />
   <img width="12" />
