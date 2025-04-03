@@ -38,11 +38,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="80" alt="javascript logo"  />
   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=nest" height="80" alt="nestjs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="80" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongo" height="80" alt="mongodb logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="80" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongo" height="80" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="80" alt="mysql logo"  />
 </div>
