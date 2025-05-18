@@ -10,54 +10,7 @@
 
 ###
 
-<h3 align="center">I’m currently working on AWS, Kubernetes, Devops & Infrastructure</h3><br><br>
 
-###
-
-<h2 align="center">Technologies that I use </h3>
-
-###
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="80" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="80" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="80" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="80" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="80" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="80" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="80" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="80" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="80" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="80" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="80" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="80" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="80" alt="javascript logo"  />
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=nest" height="80" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="80" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="80" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="80" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongo" height="80" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="80" alt="mysql logo"  />
-</div>
-
-###
 
 
 <div align="center">
@@ -76,7 +29,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=aminemastourii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aminemastourii&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aminemastourii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
