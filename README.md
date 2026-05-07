@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">As a 4th-year Software Engineering student, I thrive on solving problems, automating workflows, and optimizing systems—it's not just what I do, it's what I enjoy! ⚙️</h3>
+<h3 align="center"> I thrive on solving problems, automating workflows, and optimizing systems—it's not just what I do, it's what I enjoy! ⚙️</h3>
 
 ###
 
